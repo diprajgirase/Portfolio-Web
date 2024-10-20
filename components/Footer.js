@@ -10,10 +10,10 @@ function Footer() {
         <Image
           width={32}
           height={32}
-          src="/amit.png"
-          alt="Amit Tambulkar photo"
+          src="/dip.png"
+          alt="Dipraj Girase photo"
         />
-        <p className="text-sm">Amit Tambulkar</p>
+        <p className="text-sm">Dipraj Girase</p>
       </div>
       <div className="flex items-center gap-8">
         <nav>
