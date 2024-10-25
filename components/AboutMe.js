@@ -18,7 +18,7 @@ function AboutMe() {
       </h2>
       <div className="flex w-full flex-col gap-12 lg:grid lg:grid-cols-2 lg:grid-rows-2">
         <div className="row-span-2">
-          <p className="mb-6">Hi, I&apos;m Amit,</p>
+          <p className="mb-6">Hi, I&apos;m Dipraj,</p>
           <p className="mb-6">
             a web developer from India passionate about designing and building
             web applications that people love to use.

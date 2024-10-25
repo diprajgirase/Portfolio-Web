@@ -33,10 +33,10 @@ function Header() {
         <Image
           width={32}
           height={32}
-          src="/amit.png"
+          src="/dip21.png"
           alt="Amit Tambulkar photo"
         />
-        <p className="text-sm">Amit Tambulkar</p>
+        <p className="text-sm">Dipraj Girase</p>
       </div>
       <div className="hidden items-center gap-8 lg:flex">
         <nav>
@@ -54,22 +54,19 @@ function Header() {
         </nav>
         <div className="flex items-center gap-4">
           <Link
-            href="https://www.linkedin.com/in/amittambulkar/"
+            href="https://www.linkedin.com/in/diprajgirase/"
             target="_blank"
             className="transition-colors delay-75 ease-in-out hover:text-blue-600"
           >
             <LinkedinLogo size={22} />
           </Link>
           <Link
-            href="https://x.com/attambulkar"
+            href="https://x.com/dipraj52"
             target="_blank"
             className="transition-colors delay-75 ease-in-out hover:text-blue-600"
           >
             <XLogo size={22} />
           </Link>
-        </div>
-        <div>
-          <ConnectButton />
         </div>
       </div>
       <Sheet>
@@ -91,7 +88,7 @@ function Header() {
                 src="/amit.png"
                 alt="Amit Tambulkar photo"
               />
-              <span className="sr-only">Amit Tambulkar</span>
+              <span className="sr-only">Dipraj Girase</span>
             </Link>
             <SheetTrigger asChild>
               <Link

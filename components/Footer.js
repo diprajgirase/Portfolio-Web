@@ -10,10 +10,10 @@ function Footer() {
         <Image
           width={32}
           height={32}
-          src="/amit.png"
-          alt="Amit Tambulkar photo"
+          src="/dip21.png"
+          alt="Dipraj Girase photo"
         />
-        <p className="text-sm">Amit Tambulkar</p>
+        <p className="text-sm">Dipraj Girase</p>
       </div>
       <div className="flex flex-col items-center gap-8 md:flex-row">
         <nav>
@@ -31,14 +31,14 @@ function Footer() {
         </nav>
         <div className="flex items-center gap-4">
           <Link
-            href="https://www.linkedin.com/in/amittambulkar/"
+            href="https://www.linkedin.com/in/diprajgirase/"
             target="_blank"
             className="transition-colors delay-75 ease-in-out hover:text-blue-600"
           >
             <LinkedinLogo size={22} />
           </Link>
           <Link
-            href="https://x.com/attambulkar"
+            href="https://x.com/dipraj52"
             target="_blank"
             className="transition-colors delay-75 ease-in-out hover:text-blue-600"
           >
