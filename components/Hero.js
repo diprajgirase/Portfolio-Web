@@ -8,7 +8,7 @@ function Hero() {
     >
       <h1 className="mx-6 mb-8 flex flex-wrap items-center justify-center gap-4 text-5xl lg:text-6xl">
       <span className="font-light tracking-tighter">Hi,I'm Dipraj</span>
-      <span className="font-light tracking-tighter">an Frontend Dev</span>
+      <span className="font-light tracking-tighter">An Frontend Dev</span>
       </h1>
       <h2 className="mx-6 mb-8 flex flex-wrap items-center justify-center gap-4 text-5xl lg:text-6xl">
         <span className="font-light tracking-tighter">Design</span>
